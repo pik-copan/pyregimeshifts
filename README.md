@@ -18,7 +18,8 @@ detecting regime shifts in multiple (paleo-) climate time series. They should,
 hence, prove useful for diverse studies on Earth system dynamics beyond the work reported in the original paper. First, the methodology developed in the
 original paper can be applied to a broad range of data sets of interest.
 Second, the methodology can be easily generalized by making full use of the
-capabilities of the pyunicorn package. For example, other measures for
+capabilities of the pyunicorn package and other approaches of time series analysis. 
+For example, other measures for
 detecting regime shifts from recurrence analysis such determinism or laminarity
 could be used or visibility graph analysis could be applied instead of
 recurrence networks.
