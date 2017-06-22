@@ -9,7 +9,12 @@ J. Kurths,
 Nonlinear regime shifts in Holocene Asian monsoon variability:
 Potential impacts on cultural change and migratory patterns,
 Climate of the Past 11, 709-741 (2015),
-DOI: 10.5194/cp-11-709-2015
+DOI: 10.5194/cp-11-709-2015,
+Mentioned in Stockholm Resilience Centre's top 25 papers list of resilience reading.
+
+Software DOI along with paper publication: 
+
+[![DOI](https://www.zenodo.org/badge/76166800.svg)](https://www.zenodo.org/badge/latestdoi/76166800)
 
 # Idea
 
